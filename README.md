@@ -44,9 +44,9 @@ Redes, Suporte e Manutenção de PCs
 
 ## 📈 GitHub Stats
 
-![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitor-dev&show_icons=true&theme=radical)
+![JJeferson Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonfleon&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonFleon&layout=compact&theme=radical)
 
 🚀 Projetos em Destaque
 Projeto	Tecnologias	Descrição
