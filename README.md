@@ -1,4 +1,4 @@
-# 🧑‍💻 João Vitor | Full Stack Jr. Developer
+# 🧑‍💻 Jefreson Leon | Full Stack Developer
 
 🚀 Técnico em Informática em formação  
 🎮 Apaixonado por Games & Código  
