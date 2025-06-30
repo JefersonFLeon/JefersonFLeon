@@ -42,10 +42,12 @@ Linux (Ubuntu, Debian), Windows 10/11
 
 Redes, Suporte e Manutenção de PCs
 
-📈 GitHub Stats (ative com Vercel se desejar)
+## 📈 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=joaovitor-dev&show_icons=true&theme=radical&count_private=true)](https://github.com/joaovitor-dev)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-dev&layout=compact&theme=radical)](https://github.com/joaovitor-dev)
+![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitor-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-dev&layout=compact&theme=radical)
+
 🚀 Projetos em Destaque
 Projeto	Tecnologias	Descrição
 Portal de Notícias	PHP, MySQL, Bootstrap	CRUD com autenticação, upload de imagens e painel admin
